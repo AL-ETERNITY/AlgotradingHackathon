@@ -15,5 +15,5 @@ max drawdown - (-60%),
 Other results you can find in my code 
 ## requirements
 pip install pandas, talib and backtesting 
-##Conclusion
+## Conclusion
 I have only optimized my ema and sma period and then got such results. Generally, for MACD you get better results when time period is 26, 12 and 9 but you can optimize it and check yourself for that if you want. 
