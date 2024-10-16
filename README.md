@@ -1,7 +1,7 @@
 # AlgotradingHackathon
 This is my final submission strategy which i developed for the interiit bootcamp algotrading hackathon. 
 So, Initially i used over more than 50 combinations to develope a good strategy but in some startegy either my no. of trades would remain very less like 1 or 2 which has no point and in some strategies i got good no. of of trades but my return was very poor than the market return. 
-with each strategy i also checked with each and every time frame of candlestick which was provided and out of them every time i got the best results out 30min timeframes candlestick dataset . So surely i used this dataset in my final strategy,
+with each strategy i also checked it with each and every time frame of candlestick which was provided and out of them every time i got the best results from 30min timeframes candlestick dataset . So surely i used this dataset in my final strategy,
 the final strategy which i developed was using ema and sma crossover with MACD 
 ## Outcome
 From this strategy I got :
